@@ -10,7 +10,7 @@
   AR/VR projects, Unity games, web applications, and open-source contributions. Let's build something amazing together!  
 
 - 📫 **How to reach me:**  
-  [LinkedIn](https://www.linkedin.com/in/kratika-ghadge/) | [Email Me](mailto:your-email@example.com)  
+  [LinkedIn](https://www.linkedin.com/in/kratika-ghadge/) | [Email Me](mailto:kratikaghadge2119@gmail.com)  
 
 - 😄 **Pronouns:** She/Her  
 
