@@ -6,8 +6,8 @@
 - 🌱 **I’m currently learning:**  
   Advanced AR/VR techniques, Unity 3D development, and enhancing my skills in front-end and back-end web development.  
 
-- 💞️ **I’m looking to collaborate on:**  
-  AR/VR projects, Unity games, web applications, and open-source contributions. Let's build something amazing together!  
+- 🤓 **I’m looking to collaborate on:**  
+   Web applications,AR/VR projects, Unity games, and open-source contributions. Let's build something amazing together!  
 
 - 📫 **How to reach me:**  
   [LinkedIn](https://www.linkedin.com/in/kratika-ghadge/) | [Email Me](mailto:kratikaghadge2119@gmail.com)  
