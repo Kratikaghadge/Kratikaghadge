@@ -1,7 +1,8 @@
 **Hi, I’m @Kratikaghadge**
 
 - 👀 **I’m interested in:**  
-  Augmented Reality (AR), Virtual Reality (VR), Unity Development, and Web Development. I enjoy creating innovative projects that merge technology with creativity.  
+  Augmented Reality (AR), Virtual Reality (VR), Unity Development, and Web Development.</br>
+  I enjoy creating innovative projects that merge technology with creativity.  
 
 - 🌱 **I’m currently learning:**  
   Advanced AR/VR techniques, Unity 3D development, and enhancing my skills in front-end and back-end web development.  
@@ -10,7 +11,7 @@
    Web applications,AR/VR projects, Unity games, and open-source contributions. Let's build something amazing together!  
 
 - 📫 **How to reach me:**  
-  [LinkedIn](https://www.linkedin.com/in/kratika-ghadge/) | [Email Me](mailto:kratikaghadge2119@gmail.com)  
+                                      [LinkedIn](https://www.linkedin.com/in/kratika-ghadge/) | [Email Me](mailto:kratikaghadge2119@gmail.com)  
 
 - ⚡ **Fun fact:**  
   I’m a state-level chess and cricket player who also loves sketching and experimenting with cutting-edge technology.
