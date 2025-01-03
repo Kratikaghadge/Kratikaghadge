@@ -11,7 +11,7 @@
    Web applications,AR/VR projects, Unity games, and open-source contributions. Let's build something amazing together!  
 
 - 📫 **How to reach me:**  
-                                      [LinkedIn](https://www.linkedin.com/in/kratika-ghadge/) | [Email Me](mailto:kratikaghadge2119@gmail.com)  
+                            <div align = "center ">   <b>       [LinkedIn](https://www.linkedin.com/in/kratika-ghadge/) | [Email Me](mailto:kratikaghadge2119@gmail.com) </b> </div>
 
 - ⚡ **Fun fact:**  
   I’m a state-level chess and cricket player who also loves sketching and experimenting with cutting-edge technology.
