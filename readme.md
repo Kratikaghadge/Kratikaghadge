@@ -1,4 +1,4 @@
-**Hi, I’m @Kratikaghadge**
+**Hi, Its about me -- @Kratikaghadge**
 
 - 👀 **I’m interested in:**  
   Augmented Reality (AR), Virtual Reality (VR), Unity Development, and Web Development.</br>
