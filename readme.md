@@ -1,4 +1,5 @@
-**Hi, Its about me -- @Kratikaghadge**
+<div color="red">
+	**Hi, Its about me -- @Kratikaghadge**
 
 - 👀 **I’m interested in:**  
   Augmented Reality (AR), Virtual Reality (VR), Unity Development, and Web Development.</br>
@@ -40,6 +41,7 @@
 	
 	
  ![](https://komarev.com/ghpvc/?username=kratikaghadge&label=PROFILE+VIEWS)
+</div>
 </div>
 
 
