@@ -5,10 +5,10 @@
   Augmented Reality (AR), Virtual Reality (VR), Unity Development, and Web Development.</br>
   I enjoy creating innovative projects that merge technology with creativity.  
 
-- 🌱 **I’m currently learning:**  
+- 💻 **I’m currently learning:**  
   Advanced AR/VR techniques, Unity 3D development, and enhancing my skills in front-end and back-end web development.  
 
-- 🤓 **I’m looking to collaborate on:**  
+- 🖇️**I’m looking to collaborate on:**  
    Web applications,AR/VR projects, Unity games, and open-source contributions. Let's build something amazing together!  
 
 - 📫 **How to reach me:**  
