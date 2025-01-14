@@ -1,4 +1,4 @@
-<h1><div color="red">
+<h1><div color="red" align = "center ">
 Hi, Its about me -- @Kratikaghadge</div></h1>
 
 - 👀 **I’m interested in:**  
