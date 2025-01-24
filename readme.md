@@ -1,5 +1,5 @@
 <h1><div color="red" align = "center ">
-Hi, Its about me -- @Kratikaghadge</div></h1>
+ Hello Motivator its Kratikaghadge</div></h1>
 
 - 👀 **I’m interested in:**  
   Augmented Reality (AR), Virtual Reality (VR), Unity Development, and Web Development.</br>
