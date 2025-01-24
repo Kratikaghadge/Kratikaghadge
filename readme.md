@@ -1,5 +1,5 @@
 <h1><div color="red" align = "center ">
- Hello Active Learners Welcome to GitHub Account </div></h1>
+ Hello Learners Welcome to GitHub Account </div></h1>
 
 - 👀 **I’m interested in:**  
   Augmented Reality (AR), Virtual Reality (VR), Unity Development, and Web Development.</br>
