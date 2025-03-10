@@ -1,4 +1,4 @@
-<h1><div color="red" align = "center ">
+<h1><div color="pink" align = "center ">
  Helloo , Learners Welcome to GitHub Account !</div></h1>
 
 - 👀 **I’m interested in:**  
