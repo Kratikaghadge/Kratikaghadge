@@ -2,7 +2,7 @@
  Hello Learners , Welcome to My GitHub Account !</h1></div>
 
 - 👀 **I’m interested in :**  
-  Augmented Reality (AR), Virtual Reality (VR), Unity Development PowerBi , Azure , and Web Development.</br>
+  Augmented Reality (AR), Virtual Reality (VR), Unity Development , PowerBi , Azure , and Web Development.</br>
   I enjoy creating innovative projects that merge technology with creativity.  
 
 - 💻 **I’m currently learning:**  
